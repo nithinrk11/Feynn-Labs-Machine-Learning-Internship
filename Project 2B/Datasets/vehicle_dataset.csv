@@ -1,0 +1,237 @@
+﻿Brand,Model,Rating(out of 5),Top Speed (kmph),Range (km),Weight (kg),Charging Time (hrs),Price,Class,Load Capacity
+OLA,Roadster,4.7,116,151,-,-,104999,2W,-
+OLA,Roadster Pro,5,194,579,-,-,199999,2W,-
+OLA,Roadster X,5,105,117,-,-,84999,2W,-
+OLA,S1 X,4.3,85,95,101,5,84999,2W,-
+Bajaj,Chetak,3.7,63,123,-,6,110208,2W,-
+OLA,S1 Pro,4.2,120,195,116,7,140038,2W,-
+Ather,Rizta,4.8,80,123,119,8,111773,2W,-
+TVS,iQube,3.4,75,75,115,-,117630,2W,-
+Ather,450X,4.1,90,111,108,8,141306,2W,-
+BMW,CE 0,4.5,120,130,231,4,1490000,2W,-
+OLA,S1 Air,4.2,90,151,108,5,112885,2W,-
+Ultraviolette,F77 Mach 2,4.8,155,211,197,-,299000,2W,-
+Revolt,RV 400,4.1,85,150,108,5,142939,2W,-
+Ampere,Nexus,4.7,93,136,-,-,109900,2W,-
+Ferrato,Disruptor,4.8,95,129,164,5,169999,2W,-
+Ather,450S,4.5,90,115,108,8,119826,2W,-
+Vida,V1,4.1,80,100,124,5,116879,2W,-
+Tork,Kratos R,4.4,105,180,140,7,149999,2W,-
+Matter,AERA,4.3,-,125,-,5,173999,2W,-
+Yo,Edge,4,25,60,59,8,49086,2W,-
+TVS,X,3.1,105,140,-,4,249990,2W,-
+Ather,450 Apex,5,100,157,112,5,195069,2W,-
+Simple Energy,One,4.4,105,212,137,4,165999,2W,-
+Hero Electric,Optima CX,3.1,48,89,93,5,98600,2W,-
+Odysse,Evoqis,4,80,140,150,6,171250,2W,-
+Hop Electric,OXO,3.6,88,140,140,5,141720,2W,-
+Okinawa,R30,3.1,25,60,-,5,62216,2W,-
+Ampere,Reo Li Plus,3.8,25,70,-,6,59907,2W,-
+Kinetic Green,E Luna,4.1,50,90,96,4,69994,2W,-
+PURE EV,Etryst 350,3.9,85,140,120,6,129999,2W,-
+Ampere,Magnus,2.9,45,80,96,6,79909,2W,-
+Lectrix,SX25,4.6,25,60,70,4,54999,2W,-
+Hero Electric,Atria,4.2,25,85,69,5,77690,2W,-
+PURE EV,EPluto 7G,2.3,47,101,76,4,77999,2W,-
+Joy e-bike,Mihos,3.6,70,130,110,5,148981,2W,-
+Odysse,Vader,4.8,85,125,128,4,161574,2W,-
+Benling,Aura,2.6,60,120,-,6,91667,2W,-
+Yo,Drift,3.8,25,60,59,8,51094,2W,-
+Simple Energy,Dot One,4.1,105,151,126,4,140499,2W,-
+BGauss,RUV350,5,75,90,122,-,109999,2W,-
+Ampere,Magnus,2.9,45,80,96,6,79909,2W,-
+Lectrix,SX25,4.6,25,60,70,4,54999,2W,-
+Hero Electric,Atria,4.2,25,85,69,5,77690,2W,-
+PURE EV,EPluto 7G,2.3,47,101,76,4,77999,2W,-
+Joy e-bike,Mihos,3.6,70,130,110,5,148981,2W,-
+Odysse,Vader,4.8,85,125,128,4,161574,2W,-
+Benling,Aura,2.6,60,120,-,6,91667,2W,-
+Yo,Drift,3.8,25,60,59,8,51094,2W,-
+Simple Energy,Dot One,4.1,105,151,126,4,140499,2W,-
+BGauss,RUV350,5,75,90,122,-,109999,2W,-
+BGauss,C12i,3.3,60,85,106,4,113668,2W,-
+Benling,Kriti,2.8,25,60,-,8,56781,2W,-
+iVOOMi,Jeet X,4.2,70,100,96,5,84999,2W,-
+Kinetic Green,Zing,3,25,70,-,4,71990,2W,-
+Hop Electric,LEO,3,25,95,77,3,84360,2W,-
+Ultraviolette,F77,4.7,140,206,197,8,380000,2W,-
+Joy e-bike,Wolf,2.5,25,60,67,4,78513,2W,-
+Joy e-bike,Gen Nxt,3,25,60,67,4,74389,2W,-
+Okinawa,Ridge 100,5,50,149,-,6,115311,2W,-
+Odysse,Trot,-,25,75,110,4,99999,2W,-
+Kinetic Green,Flex,-,72,120,100,4,109874,2W,-
+Okaya,ClassIQ,3,25,70,-,5,74499,2W,-
+PURE EV,ETrance Neo,2.9,47,101,86,4,73999,2W,-
+Techo Electra,Raptor,4,25,90,60,5,57893,2W,-
+Evolet,Derby,4.4,25,90,76,4,71399,2W,-
+Kinetic,Green Zulu,3,60,104,93,5,95017,2W,-
+Joy e-bike,Monster,3.7,25,75,93,5,100500,2W,-
+iVOOMi,Eco,5,25,80,60,4,71999,2W,-
+Gemopai,Ryder,3.4,25,90,80,4,70822,2W,-
+Joy e-bike,Glob,2.4,25,60,67,4,76326,2W,-
+Okaya,Motofaast,5,70,130,-,5,128999,2W,-
+Okaya,Faast F3,5,70,130,-,6,109009,2W,-
+Ampere,Zeal EX,3.4,53,120,-,7,87058,2W,-
+Okinawa,Dual 100,2,60,149,-,6,119085,2W,-
+Hero Electric,Eddy,4,25,85,-,5,72142,2W,-
+Hero Electric,NYX HX,3.5,42,138,87,5,86490,2W,-
+Techo Electra,Emerge,4.3,25,60,60,5,68286,2W,-
+BGauss,D15,3.4,60,115,107,5,147125,2W,-
+Lectrix,LXS 3.0,-,54,120,134,4,96990,2W,-
+Lectrix,LXS,5,50,89,100,3,91399,2W,-
+Okinawa,i-Praise,3.5,58,139,-,5,123157,2W,-
+Okaya,Faast,3.7,70,160,-,6,119011,2W,-
+Okaya,Faast F2B,3.6,70,80,-,6,95004,2W,-
+PURE EV,EPluto,1.7,25,85,70,4,74989,2W,-
+Gemopai,Astrid Lite,3.2,65,90,95,4,92290,2W,-
+Gemopai,Ryder SuperMax,4.3,60,100,80,6,79999,2W,-
+Hop Electric,LYF,4.7,25,80,65,3,74999,2W,-
+Odysse,E2Go,4.7,25,70,90,4,71100,2W,-
+Okaya,Freedum,2.3,25,75,-,6,74900,2W,-
+Lectrix,LXS 2.0,-,55,98,100,3,84990,2W,-
+Okinawa,Ridge Plus,3.1,45,84,-,3,84046,2W,-
+Ampere,Primus,4.1,77,107,130,5,119900,2W,-
+Odysse,Hawk,3,45,85,128,4,99400,2W,-
+Odysse,Racer,-,45,75,107,4,100450,2W,-
+Okaya,Faast F2T,4.8,70,80,-,6,95002,2W,-
+Lectrix,LXS G2.0,5,55,98,100,3,99999,2W,-
+River,Indie,4.7,90,161,143,6,138000,2W,-
+Gkon Automotive,Veer Cargo,-,-,-,-,-,59000,3W,-
+Gkon Automotive,MS Cargo,-,-,-,-,-,60000,3W,-
+Gkon Automotive,E Cart Cargo,-,-,-,-,-,60000,3W,-
+Gkon Automotive,Gkon Cargo,-,-,-,-,-,60000,3W,500
+Gkon Automotive,Gkon Loader,-,-,-,-,-,65000,3W,1000
+SN Solar Energy,Electric Loader,-,-,-,-,-,72000,3W,500
+SN Solar Energy,Loading Electric Rickshaw,-,-,-,-,-,78000,3W,500
+SN Solar Energy,Electric Rickshaw Loader,-,-,-,-,-,87000,3W,500
+SN Solar Energy,Battery Operated E Rickshaw Loader,-,-,-,-,-,90000,3W,-
+Lohia,Narain LC,-,-,-,-,-,90000,3W,320
+SN Solar Energy,Battery Rickshaw Loader,-,-,-,-,-,93000,3W,500
+Mini Metro,Gold SS,-,-,-,-,-,100000,3W,400
+Mini Metro,M1 MS Battery Operated E Rickshaw,-,-,-,-,-,100000,3W,600
+Dabang,Dabang Pro E Rickshaw,-,-,-,-,-,104000,3W,500
+ATUL,Elite Cargo,-,-,-,-,-,104000,3W,699
+Mini Metro,Blue E Rickshaw,-,-,-,-,-,105000,3W,400
+Mini Metro,Red E Rickshaw,-,-,-,-,-,105000,3W,400
+City Life,Electric Loader XV850 Closed Body 2020,-,-,-,-,-,108000,3W,-
+Mini Metro,E Rickshaw,-,-,-,-,-,110000,3W,-
+Saarthi,Red Shaktimaan E Rickshaw,-,-,-,-,-,110000,3W,210
+ATUL,Elite Plus,-,-,-,-,-,112000,3W,699
+Dabang,Dabang Pro 1000 SS,-,-,-,-,-,113000,3W,600
+Mini Metro,V2 SS,-,-,-,-,-,113000,3W,-
+JSA,E Rickshaw,-,-,-,-,-,115000,3W,-
+Mini Metro,Electric Cargo Rickshaw,-,-,-,-,-,115000,3W,400
+Mini Metro,White E Rickshaw Loader,-,-,-,-,-,115000,3W,500
+Saarthi,Golden Shaktimaan E Rickshaw,-,-,-,-,-,115000,3W,210
+Mini Metro,LD 400 Open Loader,-,-,-,-,-,115000,3W,400
+Mini Metro,Gold SS Battery Operated E Rickshaw,-,-,-,-,-,117000,3W,-
+Gem EV,Queen,-,-,-,-,-,120000,3W,682
+Deltic,Vayu,-,-,-,-,-,120000,3W,-
+Mini Metro,Electric double decker,-,-,-,-,-,120000,3W,400
+Saarthi,Shaktiman,-,-,-,-,-,125000,3W,-
+Saarthi,Shaktiman E Rickshaw,-,-,-,-,-,125000,3W,-
+Saarthi,Green Shaktiman E Rickshaw,-,-,-,-,-,125000,3W,210
+Saarthi,Yellow Shaktiman E Rickshaw,-,-,-,-,-,125000,3W,210
+Saarthi,Pink Shaktiman E Rickshaw,-,-,-,-,-,125000,3W,210
+Mahindra,E-Alfa Mini,-,-,-,-,-,126000,3W,758
+Gem EV,Prince,-,-,-,-,-,130000,3W,682
+Bahubali,E Rickshaw Bahubali Loader,-,-,-,-,-,130000,3W,400
+Thukral Electric,Electric EC 1,-,-,-,-,-,130000,3W,312
+Gem EV,Loader Flatbed,-,-,-,-,-,131000,3W,-
+Bahubali,E Rickshaw Bahubali,-,-,-,-,-,135000,3W,-
+Gem EV,Samrat,-,-,-,-,-,135000,3W,682
+Jezza Motors,J1000 E Rickshaw,-,-,-,-,-,135000,3W,-
+YC Electric,E Loader,-,-,-,-,-,135000,3W,693
+Kinetic,DX,-,-,-,-,-,140000,3W,-
+JSA,E Cart,-,-,-,-,-,140000,3W,-
+Gayam Motors,eCargo,-,-,-,-,-,140000,3W,675
+Udaan,DLX Udaan,-,-,-,-,-,140000,3W,-
+Gayam Motors,eShaft,-,-,-,-,-,140000,3W,675
+Jezza Motors,Super J1000,-,-,-,-,-,140000,3W,-
+Deltic,Star,-,-,-,-,-,142000,3W,-
+Mahindra,E-Alfa Cargo,-,-,-,-,-,144000,3W,780
+Kinetic,Safar Smart,-,-,-,-,-,145000,3W,689
+SN Solar Energy,E Rickshaw Loader,-,-,-,-,-,145000,3W,500
+Kinetic,Safar Shakti,-,-,-,-,-,153000,3W,380
+Kinetic,Safar Shakti Cafeteria,-,-,-,-,-,153000,3W,750
+Kinetic,Safar Shakti E-Commerce,-,-,-,-,-,153000,3W,750
+GreenRick,Super Cart,-,-,-,-,-,155000,3W,-
+Mini Metro,Gold Rickshaw,-,-,-,-,-,156000,3W,-
+Gem EV,School Van,-,-,-,-,-,156000,3W,700
+Gem EV,Samrat Delivery Van,-,-,-,-,-,156000,3W,688
+YC Electric,Yatri Cart,-,-,-,-,-,160000,3W,-
+Mahindra,E-Alfa Plus,-,-,-,-,-,160000,3W,816
+E-Ashwa,E Loader,-,-,-,-,-,165000,3W,-
+E-Ashwa,E-Auto,-,-,-,-,-,165000,3W,-
+Mahindra,Treo Yaari,-,-,-,-,-,169000,3W,-
+Mini Metro,Cover Body Electric Loader,-,-,-,-,-,171000,3W,400
+Lohia,Humsafar,-,-,-,-,-,180000,3W,990
+Gem EV,Canteen Van,-,-,-,-,-,180000,3W,321
+Gem EV,Samrat Vegetable Cart,-,-,-,-,-,180000,3W,600
+Mahindra,E-Alfa Super,-,-,-,-,-,182000,3W,-
+Gem EV,Prince Pro,-,-,-,-,-,200000,3W,500
+Kinetic,Safar Shakti Garbage C,-,-,-,-,-,232000,3W,750
+Baba Electric,Hydraulic Garbage E Loader,-,-,-,-,-,265000,3W,-
+ATUL,Shakti Cargo,-,-,-,-,-,283000,3W,1020
+Piaggio,Ape E City,-,-,-,-,-,284000,3W,689
+Omega Seiki Mobility,Rage Plus Swap,-,-,-,-,-,292000,3W,565
+Omega Seiki Mobility,Stream City,-,-,-,-,-,301000,3W,-
+Piaggio,Ape E Xtra,-,-,-,-,-,312000,3W,975
+Montra,Super Auto,-,-,-,-,-,315000,3W,-
+Mahindra,Treo,-,-,-,-,-,321000,3W,350
+Gayam Motors,Taskman,-,-,-,-,-,325000,3W,500
+Gayam Motors,Urban ET,-,-,-,-,-,325000,3W,500
+Keto Motors,Trilux 1.0,-,-,-,-,-,325000,3W,-
+Eblu,Rozee,-,-,-,-,-,339000,3W,-
+Kinetic,Safar Shakti Jumbo,-,-,-,-,-,340000,3W,990
+Omega Seiki Mobility,Stream,-,-,-,-,-,340000,3W,960
+Mahindra,Zor Grand,-,-,-,-,-,350000,3W,998
+Omega Seiki Mobility,Rage+ Rapid EV,-,-,-,-,-,359000,3W,960
+Mahindra,Treo Plus,-,-,-,-,-,360000,3W,702
+Greaves Mobility,Eltra City,-,-,-,-,-,367000,3W,753
+Omega Seiki Mobility,Rage Plus,-,-,-,-,-,370000,3W,-
+Keto Motors,Bulke Plus 2.2,-,-,-,-,-,370000,3W,-
+Bajaj,Maxima XL,-,-,-,-,-,377000,3W,-
+Dandera,Otua,-,-,-,-,-,380000,3W,900
+Mahindra,Treo Zor,-,-,-,-,-,383000,3W,995
+Euler Motors,HiLoad,-,-,-,-,-,394000,3W,1413
+Omega Seiki Mobility,Rage+ Rapid EV 140 cft Container,-,-,-,-,-,399000,3W,960
+Omega Seiki Mobility,Rage Plus RapidEV Pro,-,-,-,-,-,406000,3W,565
+Altigreen,NEEV Low Deck,-,-,-,-,-,408000,3W,-
+Omega Seiki Mobility,Rage Plus A85,-,-,-,-,-,409000,3W,565
+Omega Seiki Mobility,Rage Plus 125,-,-,-,-,-,409000,3W,565
+Altigreen,NEEV High Deck,-,-,-,-,-,436000,3W,950
+Omega Seiki Mobility,Rage Plus Garbage Tipper,-,-,-,-,-,495000,3W,500
+Omega Seiki Mobility,Rage Plus Frost,-,-,-,-,-,811000,3W,565
+MG,Comet,5,-,230,-,-,798000,4W,-
+Tata,Tiago EV,5,-,315,-,-,869000,4W,-
+Citroen,eC3,4.5,-,320,-,-,1150000,4W,-
+Tata,Tigor EV,5,-,315,-,-,1249000,4W,-
+Tata,Nexon EV Prime,5,-,312,-,-,1449000,4W,-
+Mahindra,XUV400,5,-,375,-,-,1599000,4W,-
+Tata,Nexon EV Max,5,-,453,-,-,1649000,4W,-
+MG,ZS EV,4.5,-,461,-,-,2338000,4W,-
+Hyundai,Kona EV,4,-,452,-,-,2384000,4W,-
+BYD,e6,4,-,415,-,-,2915000,4W,-
+BYD,Atto 3,4,-,521,-,-,3399000,4W,-
+Hyundai,Ioniq 5,4,-,631,-,-,4595000,4W,-
+Mini Cooper,SE,4.5,-,270,-,-,5090000,4W,-
+Volvo,XC40 Recharge,4,-,418,-,-,5690000,4W,-
+Kia,EV6,5,-,708,-,-,6095000,4W,-
+BMW,i4,4.5,-,590,-,-,7390000,4W,-
+Mercedes-Benz,EQB,5,-,423,-,-,7450000,4W,-
+Mercedes-Benz,EQC,4.5,-,450,-,-,9950000,4W,-
+Audi,e-tron,5,-,379,-,-,10216000,4W,-
+Jaguar,i-Pace,5,-,470,-,-,11958000,4W,-
+Audi,e-tron Sportback,4,-,484,-,-,12024000,4W,-
+BMW,iX,4,-,425,-,-,12400000,4W,-
+Porsche,Taycan,4,-,420,-,-,15302000,4W,-
+Mercedes-Benz,EQS,4.7,-,857,-,-,15900000,4W,-
+Audi,e-tron GT,5,-,481,-,-,17026000,4W,-
+Porsche,Taycan Cross Turismo,4.7,-,452,-,-,17368000,4W,-
+BMW,i7,4.8,-,625,-,-,19500000,4W,-
+Mercedes-Benz,AMG EQS,4,-,526,-,-,24500000,4W,-
+BYD,Seal,5,-,580,-,-,4100000,4W,-
+Mercedes-Benz,AMG EQE,4,-,550,-,-,13000000,4W,-
+Porsche,Macan EV,4,-,590,-,-,12200000,4W,-
+BMW,i5,4.2,-,516,-,-,12000000,4W,-
