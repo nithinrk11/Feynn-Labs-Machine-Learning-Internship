@@ -12,15 +12,15 @@ With so many choices and confusing and non-transparent nutritional information, 
 - 🔭 The 3rd Project (AI Product/Service Business & Financial Modelling - Final Project) is the continuation of the 1st Project where I performed code implementation for validation and business modeling and market analysis for my proposed Project idea [ReciHealth Report](https://github.com/nithinrk11/Feynn-Labs-Machine-Learning-Internship/blob/main/Project%203/ReciHealth_Report.pdf). With scalable monetization strategies, including affiliate partnerships and in-app purchases, ReciHealth provides a solid business model as a cost-effective solution for promoting healthy living while driving long-term growth potential for startups in the health tech market.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <div align="left">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/k-nithinram-376b20231/)" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/k-nithinram-376b20231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="nithinrk11@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-###
-<a href="https://www.linkedin.com/in/k-nithinram-376b20231/" target="blank"><img align="center" src="/nithinrk11/Feynn-Labs-Machine-Learning-Internship/tree/main" alt="k nithinram" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
