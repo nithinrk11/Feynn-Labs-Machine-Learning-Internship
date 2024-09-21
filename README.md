@@ -1,4 +1,4 @@
-<h1 align="center"># Feynn-Labs-Machine-Learning-Internship</h1>
+<h1 align="center">Feynn-Labs-Machine-Learning-Internship</h1>
 <h1 align="center">Hi 👋, I'm K Nithinram</h1>
 <h3 align="center">This Repo will contains all of my contributions and Projects done towards my role as a Machine Learning intern at Feynn Labs</h3>
 
