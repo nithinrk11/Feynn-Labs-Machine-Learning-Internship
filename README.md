@@ -1,6 +1,6 @@
 <h1 align="center">Feynn-Labs-Machine-Learning-Internship</h1>
 <h1 align="center">Hi 👋, I'm K Nithinram</h1>
-<h3 align="center">This Repo contains all of my contributions and Projects done during my role as a Machine Learning intern at Feynn Labs</h3>
+<h3 align="center">This Repo contains all of my Contributions and Projects done during my role as a Machine Learning Intern at Feynn Labs</h3>
 
 - 🔭 The 1st Project  Assignment (AI Product/Service Ideation task) during my Virtual Internship at AIncubator - Feynn Labs and Feynn Labs, I was challenged to come up with a business idea where Machine Learning/Data Science could support small or medium businesses in areas like sales, business operations, or marketing. [ReciHealth: An AI-Driven Nutritional and Health Assistant for Personalized Wellness](https://github.com/nithinrk11/Feynn-Labs-Machine-Learning-Internship/blob/main/Project1/K_Nithinram.pdf). 
 With so many choices and confusing and non-transparent nutritional information, staying healthy could be overwhelming. ReciHealth offers a personalized AI-based solution to help users make informed food choices track their nutrition, and even predict health outcomes based on their daily routines and dietary habits.
