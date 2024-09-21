@@ -13,6 +13,7 @@ With so many choices and confusing and non-transparent nutritional information, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <a href="https://www.linkedin.com/in/k-nithinram-376b20231/" target="blank"><img align="center" src="/nithinrk11/Feynn-Labs-Machine-Learning-Internship/tree/main" alt="k nithinram" height="30" width="40" /></a>
 </p>
 
