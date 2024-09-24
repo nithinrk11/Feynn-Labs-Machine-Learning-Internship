@@ -25,7 +25,7 @@ The datasets covered various aspects such as:
 - EV sales
 - Public charging station infrastructure
 - Consumer ratings
-- And more
+- EV Details, price, and range
 
 ## Results
 ### Target Segments
